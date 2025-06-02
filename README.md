@@ -3,11 +3,7 @@
 This project presents a comprehensive data management solution for a fictional Superstore using SQL. It includes the creation of a normalized relational database and a star schema data warehouse designed to support advanced retail analytics.
 
 ## 📌 Project Overview
-
-- **Course**: GBA 6220 - Data Management
-- **Team**: Asli Kurt, Bhavya Patel, Carlos Ibarra, Shreya Billipalli
-- **Instructor**: Professor Weijun Zheng, Ph.D.
-- **Tools Used**: MySQL, Power BI, Tableau (Data Source)
+- **Tools Used**: MySQL, Power BI, Lucidchart
 
 ## 🗃️ Dataset
 
